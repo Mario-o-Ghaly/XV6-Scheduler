@@ -1,4 +1,4 @@
-## XV6-Scheduler
+# XV6-Scheduler
 
 This project implements a priority-based scheduler for the xv6 operating system. xv6, a simple Unix-like operating system, does not include a scheduler by default. The implemented scheduler assigns priorities to processes in the range of 1 to 10, with 1 being the highest priority. The default priority setting for processes is 5.
 
